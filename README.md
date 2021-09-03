@@ -34,7 +34,7 @@ StringUtils, EvalUtils, NumberUtils, ArrayUtils, ObjectUtils, ElementUtils
 ## DwiVar for modeling variables
 
 ```html
-<div class=".app">
+<div class="app">
    <span> {{text}} </span>
 </div>
 <script>
