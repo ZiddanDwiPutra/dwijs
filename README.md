@@ -19,7 +19,7 @@ lightweight javascript utilities function collections
 
 ## Usage
 Access all Utils easily
-(Read Documentations for detail)
+(Read [Documentations](https://ziddandwiputra.github.io/dwijs-docs) for detail)
 
 ```javascript
 // Access StringUtils
