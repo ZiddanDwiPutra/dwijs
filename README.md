@@ -39,7 +39,7 @@ StringUtils, EvalUtils, NumberUtils, ArrayUtils, ObjectUtils, ElementUtils
 </div>
 <script>
    // init DwiVar 
-   new dwi.var(".app", {
+   new dwi.var("app", {
       data: (){
          return {
             text: "your text here"
@@ -50,7 +50,7 @@ StringUtils, EvalUtils, NumberUtils, ArrayUtils, ObjectUtils, ElementUtils
 ```
 
 ```html
-<div class=".app">
+<div class="app">
    <div> {{text}} </div>
    <div>
       Change Text Here : <br>
